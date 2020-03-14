@@ -5,6 +5,7 @@ This is for using Typescript, Tailwind Css, Purgecss together with Preact.
 - Significantly reduce your size of your bundled CSS (**from about 700kb to 1~10kb**)
 - Preact Typescript template is required
 - Remove unused css for all components, (js, ts, tsx, jsx)
+- Keep the dependency updated
 
 ## Usage
 
