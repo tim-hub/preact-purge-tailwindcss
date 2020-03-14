@@ -1,4 +1,6 @@
-# Preact CLI Tailwind CSS Plugin
+# Preact CLI Tailwind CSS Plugin (JS/Typescript supported)
+
+[![CodeFactor](https://www.codefactor.io/repository/github/tim-hub/preact-purge-tailwindcss/badge)](https://www.codefactor.io/repository/github/tim-hub/preact-purge-tailwindcss)
 
 This is for using Typescript, Tailwind Css, Purgecss together with Preact.
 
@@ -48,3 +50,4 @@ module.exports = (config, env, helpers) => {
 ## Reference
 
 - [folk from](https://github.com/agneym/preact-cli-tailwind)
+- [npm package](https://www.npmjs.com/package/preact-purge-tailwindcss)
