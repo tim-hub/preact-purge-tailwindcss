@@ -1,6 +1,7 @@
 # Preact CLI Tailwind CSS Plugin
 
-[![npm](https://img.shields.io/npm/v/preact-cli-tailwind)](https://www.npmjs.com/package/preact-cli-tailwind)
+This is for using Typescript, Tailwind Css, purgecss together with Preact.
+
 
 Adds [Tailwind CSS](https://tailwindcss.com/) to [Preact CLI](https://github.com/preactjs/preact-cli).
 
@@ -44,6 +45,5 @@ module.exports = (config, env, helpers) => {
 };
 ```
 
-## Contributing
-
-PRs Welcome.
+## Reference
+- [folk from](https://github.com/agneym/preact-cli-tailwind)
