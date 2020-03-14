@@ -1,6 +1,6 @@
 {
   "name": "preact-purge-tailwindcss",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "Preact CLI Plugin that helps add Tailwind CSS and Purege CSS",
   "main": "src/index.js",
   "homepage": "https://github.com/tim-hub/preact-purge-tailwindcss",
