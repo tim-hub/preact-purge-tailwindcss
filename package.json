@@ -1,5 +1,5 @@
 {
-  "name": "preact-cli-tailwind",
+  "name": "preact-pure-tailwindcss",
   "version": "1.0.0",
   "description": "Preact CLI Plugin that helps add Tailwind CSS",
   "main": "src/index.js",
