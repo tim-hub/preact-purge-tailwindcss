@@ -1,11 +1,10 @@
 # Preact CLI Tailwind CSS Plugin
 
-This is for using Typescript, Tailwind Css, purgecss together with Preact.
+This is for using Typescript, Tailwind Css, Purgecss together with Preact.
 
-
-Adds [Tailwind CSS](https://tailwindcss.com/) to [Preact CLI](https://github.com/preactjs/preact-cli).
-
-Tailwind is added as a PostCSS Plugin. Also adds Purge CSS plugin in production.
+- Significantly reduce your size of your bundled CSS (**from about 700kb to 1~10kb**)
+- Preact Typescript template is required
+- Remove unused css for all components, (js, ts, tsx, jsx)
 
 ## Usage
 
@@ -46,4 +45,5 @@ module.exports = (config, env, helpers) => {
 ```
 
 ## Reference
+
 - [folk from](https://github.com/agneym/preact-cli-tailwind)
