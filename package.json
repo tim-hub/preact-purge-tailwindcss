@@ -23,7 +23,7 @@
   "author": "tim-hub",
   "license": "MIT",
   "dependencies": {
-    "@fullhuman/postcss-purgecss": "^2.0.0"
+    "@fullhuman/postcss-purgecss": "^3.0.0"
   },
   "devDependencies": {
     "acorn": "7.1.1",
